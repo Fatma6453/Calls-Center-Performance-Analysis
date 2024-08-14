@@ -1,4 +1,6 @@
 # Calls Center Performance Analysis
+![download (1)](https://github.com/user-attachments/assets/e12ca75b-3bf7-4ad7-8647-a428124015c7)
+
 ###  Content 
 - [Overview](overview)
 - [Tool](tool)
